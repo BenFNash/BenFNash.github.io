@@ -7,22 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-- I'm a Python Software engineer working on data, backend and frontend development.
+- Full Stack Software engineer building web apps and data pipelines. Proficient in using AWS to setup cloud infrastructure through the console or infrastructure as code.
 
-- I have a Computer Science (Artificial Intelligence) MSc.
-
-- I am interested in Computer Vision and Reinforcement Learning.
+- Computer Science MSc (Artificial Intelligence), interested in Reinforcement Learning and developing towards building software for machine learning systems
 
 
 Experience
 ======
-Junior Software Engineer - Adzact
-- Building ETL pipelines with Luigi, python, pandas
-- Backend development with tornado, flask
-- Frontend development with React
+Software Engineer - Adzact
+- Maintaining AWS infrastructure, EC2, Batch, S3, RDS
+- Managing and developing ETL pipelines with Luigi, python, and pandas
+- Creating new endpoints and features in an internal analytics web app
 
 
-Eductation
+Education
 ======
 
 ### Universtiy of Nottingham
@@ -32,5 +30,6 @@ Computer Science (Artificial Intelligence) MSc
 - System Design
 
 Aerospace Engineering BEng
-- Introduction to Spacecraft Systems
-- Aerodynamics
+- Managing Projects
+- Developing an Engineering Mindset
+
